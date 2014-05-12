@@ -1,10 +1,8 @@
-ecg_noise_detector
-==================
 #Report 
 
 ## Goal
 
-Our goal was to find noise on an ECG signal. 
+Our main goal was to find noise on an ECG signal. 
 
 ## Team
 
@@ -18,9 +16,8 @@ We passed by the several steps:
 
 ### Step 1 - First signal recorded
 
-In  the first step we've recorded data 
-
-This was the best signal extracted from bitalino. 
+In the first step we've recorded data.
+We used the best signal extracted from bitalino. 
 
 ### Step 2 - Improved signal
 
@@ -62,8 +59,8 @@ show()
 savefig("ECG_detector.jpg")
 ```
 
-The complete code examples can be found on the github link:
+The complete code can be found on the github link:
 
-[Github page](https://github.com/luisafialho/ecg_noise_detector/commit/a69c0c294bd9666065ca99b6ab9652631eefc60a)
+[project code page](https://github.com/luisafialho/ecg_noise_detector/blob/master/ecg_noise_detector.py)
 
 
