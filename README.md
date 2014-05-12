@@ -30,12 +30,12 @@ We created an array that values one (1) when there is noise (values above 400 mV
 
 The image represents the ECG signal above and the Noise Detector bellow:
 
-[Github page](https://github.com/luisafialho/ecg_noise_detector/blob/a69c0c294bd9666065ca99b6ab9652631eefc60a/ECG_detector.jpg)
+![graphs](https://github.com/luisafialho/ecg_noise_detector/blob/master/ECG_detector.jpg)
 
 
 ### Step 4 - The final outcome
 
-## Code example
+#### Code
 
 
 ``` python
