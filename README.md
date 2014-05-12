@@ -35,7 +35,7 @@ The image represents the ECG signal above and the Noise Detector bellow:
 
 ### Step 4 - The final outcome
 
-#### Code
+#### Principal Code
 
 
 ``` python
